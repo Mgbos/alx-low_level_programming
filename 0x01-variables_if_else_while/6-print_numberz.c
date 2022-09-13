@@ -2,12 +2,13 @@
 
 /**
  * main - Entry point
- * Return: Always 0 (success/correct)
+ * Return: Always 0 (success/corect)
  */
 
 int main(void)
+
 {
-	int i
+	int i;
 
 	for (i = 48 ; i <= 57; i++)
         {
