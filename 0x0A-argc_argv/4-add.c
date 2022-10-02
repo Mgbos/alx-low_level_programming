@@ -27,9 +27,9 @@ return (0);
 
 int main(int argc, char const *argv[])
 {
-	int sum = 0;
-	while (--argc)
-	{
+int sum = 0;
+while (--argc)
+{
 		if (isInteger(argv[argc]))
 		{
 			printf("Error\n");
