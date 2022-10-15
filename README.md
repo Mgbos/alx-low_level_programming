@@ -1,1 +1,1 @@
-my God is good
+Gods grace
